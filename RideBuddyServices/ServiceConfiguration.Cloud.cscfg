@@ -3,7 +3,7 @@
   <Role name="RideBuddyIdentityService">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=ridebuddyidentityservice;AccountKey=CW9Zc5YfsE1U9ZE1L0RWboeKShNotWb3yChem1nad65C6w0TRyX54eTmNCqm4864O71A358WFzmBEiTaIVK/7Q==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
