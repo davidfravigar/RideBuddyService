@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "RideBuddyServices", "RideBuddyServices\RideBuddyServices.ccproj", "{BF1DC0C5-E884-4623-9586-9D7CA83B7AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideBuddyIdentityService", "RideBuddyIdentityService\RideBuddyIdentityService.csproj", "{FD76B9C0-AD67-478A-8117-D568284BC182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1DC0C5-E884-4623-9586-9D7CA83B7AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1DC0C5-E884-4623-9586-9D7CA83B7AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF1DC0C5-E884-4623-9586-9D7CA83B7AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF1DC0C5-E884-4623-9586-9D7CA83B7AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD76B9C0-AD67-478A-8117-D568284BC182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD76B9C0-AD67-478A-8117-D568284BC182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD76B9C0-AD67-478A-8117-D568284BC182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD76B9C0-AD67-478A-8117-D568284BC182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
